@@ -1,6 +1,4 @@
 
-Sure! Here's a concise description for your Cheese & Chili website project for GitHub:
-
 Cheese & Chili Restaurant Website
 A responsive and user-friendly website for a restaurant specializing in cheese and chili dishes. Features include an interactive menu, an easy-to-use reservation system, high-quality food imagery, and detailed contact information.
 
